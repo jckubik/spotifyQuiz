@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin 20s linear infinite;
+  }
+}
+
+.App-header {
+  min-height: 100vh;
+  color: #fff;
+  background-color: #282c34;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  display: flex;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+div, button {
+  margin: 5vh;
+}
+
+#artistList {
+  padding: 0;
+  list-style: none;
+}
+
+/*# sourceMappingURL=index.34b7aba5.css.map */
